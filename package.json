@@ -1,6 +1,6 @@
 {
   "name": "dembrandt",
-  "version": "0.8.2",
+  "version": "0.9.0",
   "description": "Extract design tokens and brand assets from any website",
   "mcpName": "io.github.dembrandt/dembrandt",
   "main": "index.js",
