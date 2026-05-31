@@ -36,6 +36,7 @@ test/analysis/
 coverage/
 
 .claude
+.agents
 
 
 
